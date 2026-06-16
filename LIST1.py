@@ -55,12 +55,15 @@
 # else:
 #     print("Not Palindrome")
 
-tls1 = ["C", "D", "A", "A", "B", "B", "A"]
-# print(tup1.count("C"))
+# tls1 = ["C", "D", "A", "A", "B", "B", "A"]
+# # print(tup1.count("C"))
 
-tls1.sort()
-print(tls1)
+# tls1.sort()
+# print(tls1)
 
+
+null_dict ={}
+print(null_dict)
 
 
 
