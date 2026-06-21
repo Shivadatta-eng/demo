@@ -15,5 +15,8 @@ Student = {
 # print(Student.keys()) # to print all the keys in the dictionary
 # print(Student.values()) # to print all the values in the dictionary
 # print(Student.items()) # to print all the key-value pairs in the dictionary
-print(Student.get("result")) # to get the value of a key, if the key is not present it will return None
-print(Student.get("age", "16")) # to get the value of a key, if the key is not present it will return "Key not found"
+# print(Student.get("result")) # to get the value of a key, if the key is not present it will return None
+# print(Student.get("age", "16")) # to get the value of a key, if the key is not present it will return "Key not found"
+print(Student.get("Marks"))
+print(Student.get("result"))
+      

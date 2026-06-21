@@ -62,9 +62,5 @@
 # print(tls1)
 
 
-null_dict ={}
-print(null_dict)
-
-
 
 
